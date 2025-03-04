@@ -1,0 +1,18 @@
+POST http://localhost:3000/placas
+Content-Type: application/json
+
+{
+    "name": "370Z",
+    "marca": "Nissan",
+    "modelo": 2015,
+    "color": "Gris"
+}
+
+### VER PLACAS
+GET http://localhost:3000/placas
+
+### VER UNA PLACA
+GET http://localhost:3000/placas/28d84568-a60c-4c9a-a6e6-0ee27842579a
+
+### ELIMINAR PLACAS
+DELETE http://localhost:3000/placas/4af50726-bc55-49c1-8c93-c556c86195c8

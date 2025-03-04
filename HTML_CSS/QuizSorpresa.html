@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador de Carros</title>
+    <link rel="stylesheet" href="Css/styles.css">
+    <script src="Js/script.js"></script>
+<contenido>Zapata ojala te guste nuestro bonito administrador</contenido>
+   
+</head>
+<body>
+    <h1>¡Bienvenido a nuestro sistema para administrar carros!</h1>
+    <div class="container">
+        <div class="table-container">
+            <h2>Nuestra tabla de carros</h2>
+            <table id="carTable">
+                <thead>
+                    <tr>
+                        <th>Placa</th>
+                        <th>Marca</th>
+                        <th>Modelo</th>
+                        <th>Color</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <div class="form-container">
+            <h2>Registra tu carro:</h2>
+            <label>Placa:</label>
+            <input type="text" id="placa">
+            <label>Marca:</label>
+            <input type="text" id  ="marca">
+            <label>Modelo:</label>
+            <input type="text" id="modelo">
+            <label>Color:</label>
+            <input type="text" id="color">
+            <button onclick="agregarCarro()">ENVIAR</button>
+            
+        </div>
+        
+        <div class="delete-container">
+            <label>Borrar auto con placa:</label>
+            <input type="text" id="borrarPlaca">
+            <button onclick="borrarCarro()">ELIMINAR</button>
+        </div>
+        
+    </div>
+
+</body>
+</html>

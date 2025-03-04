@@ -1,0 +1,77 @@
+body {
+    font-family: Arial, sans-serif;
+    background: url('../img/car.png');
+    background-size: cover;
+    color: white;
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+}
+.table-container {
+    background: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    width: 40%; 
+    margin-left: auto; 
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+}
+th, td {
+    border: 1px solid white;
+    padding: 10px;
+    text-align: center;
+}
+.form-container {
+    background: rgba(200, 200, 200, 0.9);
+    padding: 20px;
+    border-radius: 10px;
+    color: black;
+    width: 30%; 
+    margin-right:  auto; 
+ 
+}
+input {
+    width: 90%;
+    margin-bottom: 10px;
+    padding: 8px;
+}
+button {
+    padding: 10px;
+    background: gray;
+    color: white;
+}
+button:hoover {
+    background: darkgray;
+}
+.delete-container {
+    background: rgba(200, 200, 200, 0.9);
+    padding: 15px;
+    border-radius: 10px;
+    color: black;
+    width: 30%;
+    margin: 20px auto; /* Agrega separación */
+    text-align: center;
+}
+
+.delete-container input {
+    width: 80%;
+    padding: 8px;
+    margin-bottom: 10px;
+}
+
+.delete-container button {
+    padding: 10px;
+    background: red;
+    color: white;
+    margin: 0 
+}
+
+
+
