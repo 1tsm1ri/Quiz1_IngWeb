@@ -11,7 +11,7 @@
   </a>
 </p>
 
-
+<br></br>
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=454856&text=Miembros%20del%20equipo:&fontSize=25&fontColor=FFFFFF&fontAlignY=53"/>
