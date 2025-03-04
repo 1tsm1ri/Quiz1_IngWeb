@@ -11,15 +11,24 @@
   </a>
 </p>
 
-<br></br>
+<br>
+    <p align='center'>
+        <img
+        src="https://readme-typing-svg.demolab.com/?font=Iosevka&size=16&pause=1000&color=454856&center=true&vCenter=true&width=435&lines=Espero+te+guste+nuestro+trabajo+Zapata!"
+        alt="Typing SVG"
+        />
+    </p>
+</br>
+
+
 
 <p align="center">
     <img src="https://capsule-render.vercel.app/api?type=rect&height=30&color=454856&text=Miembros%20del%20equipo:&fontSize=25&fontColor=FFFFFF&fontAlignY=53"/>
     <samp>
         <br></br>
              <b>
-                - Mariana Lemus Esguerra
+                - Mariana Lemus Esguerra (Backend)
             <br />
-                - Manuela Echeverri Castrillón
+                - Manuela Echeverri Castrillón (Frontend)
             <br />
     </samp>
