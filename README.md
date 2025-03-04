@@ -1,6 +1,6 @@
 <p align='center'>
     <img 
-        src="https://capsule-render.vercel.app/api?type=waving&height=200&color=FFFFFF&text=Quiz%20Ingenieria%20Web&fontAlignY=30&fontSize=50&desc=Made%20by:%20Manuela%20Echeverri%20Castrillon%20y%20Mariana%20Lemus%20Esguerra&descAlign=50&descAlignY=50&fontAlign=50&descSize=15"
+        src="https://capsule-render.vercel.app/api?type=waving&height=200&color=454856&text=Quiz%20Ingenieria%20Web&fontAlignY=30&fontSize=50&desc=Made%20by:%20Manuela%20Echeverri%20Castrillon%20y%20Mariana%20Lemus%20Esguerra&descAlign=50&descAlignY=50&fontAlign=50&descSize=15"
     />
 </p>
 <p align='center'>
